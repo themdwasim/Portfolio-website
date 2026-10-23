@@ -4,7 +4,7 @@ A clean, minimal, and responsive personal portfolio website built using HTML5 an
 
 ## 🌐 Live Preview
 
-**Live Website:** [View My Portfolio](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+**Live Website:** [View My Portfolio](https://portfolio-website-chi-beige-11.vercel.app/)
 
 > Replace the link above with your actual deployed website URL.
 
